@@ -1,0 +1,16 @@
+para acceder al sistema web elos datos son los siguientes:
+
+Usuario: esteban@nextu.com 
+Clave: 123456
+
+MySQL 
+
+
+Para ingresar al servidor:
+"localhost"
+
+Usuario: "nextu" 
+No tiene clave de acceso... 
+
+La Base de Datos Es: "agenda_db"
+
